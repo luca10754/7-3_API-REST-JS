@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:8080/api/students';
+const API_URL = 'https://seven-3-api-rest-js-1.onrender.com/api/students';
 const form = document.getElementById('studentForm');
 const userList = document.getElementById('userList');
 const userCount = document.getElementById('userCount');
